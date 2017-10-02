@@ -1,0 +1,80 @@
+body {
+	font-family: sans-serif;
+    color: #000;
+
+    margin: 10px 10px 10px 10px;
+}
+
+h1 {
+  	display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  	font-size: 50px;
+}
+
+h2 {
+  	display: block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  	font-size: 25px;
+}
+
+p {
+    padding-top: 10px;
+    padding-bottom: 5x;
+  	font-size: 15px;
+}
+
+label {
+  	display: block;
+  	font-weight: bold;
+}
+
+button {
+  margin: 2px 5px 2px 5px;
+  color: #fff;
+  background-color: #c0c0c0;
+  border-style: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #808080;
+}
+
+#topic-form {
+  position: absolute;
+  right:0;
+  top:20px;
+  padding: 20px;
+  width: 30%;
+  margin-left: 10px;
+}
+
+#topic-input {
+  width: 250px;
+  border-radius: 5px;
+}
+
+#add-topic {
+  margin: 2px 5px 2px 5px;
+  color: #fff;
+  background-color: #c0c0c0;
+  border-style: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#add-topic:hover {
+  background-color: #808080;
+}
+
+#gifs-appear-here {
+  width: 70%;
+}
+
+.gifDiv {
+  float: left;
+  margin-right: 10px;
+}
